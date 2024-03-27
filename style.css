@@ -1,0 +1,17 @@
+#section-1 , #section-2{
+     display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+#section-1 .box{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    text-align: center;
+}
+#section-2 .box{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(118, 118, 131);
+    text-align: center;
+}
